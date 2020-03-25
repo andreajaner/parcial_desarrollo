@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnMore"
+        android:icon="@drawable/ic_more_menu"
+        android:title="Mas"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:icon="@drawable/ic_share"
+                android:id="@+id/btnShare"
+                android:title="Limpiar Datos"/>
+            <item
+                android:icon="@drawable/ic_contact_phone"
+                android:id="@+id/btnContact"
+                android:title="Lista de Contactos"/>
+        </menu>
+</item>
+</menu>

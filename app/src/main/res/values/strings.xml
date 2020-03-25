@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">parcial_01</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_number">Número</string>
+    <string name="btn1">Guardar</string>
+    <string name="btn2">Cancelar</string>
+
+    <string name="btn_id">Cambiar</string>
+
+    <string name="txt2_name">Nombre</string>
+    <string name="txt2_number">Numero</string>
+    <string name="txt2_grupo">grupo</string>
+    <string name="btn_volver">Agregar Contacto</string>
+    <string name="btn_orden">Ordenar por grupo</string>
+    <string name="btn_borrar">Borrar Lista</string>
+    <string name="btn_invertir">Ordenar por apellido</string>
+    <string name="btn_apell">Invertir Lista</string>
+
+    <string name="btn_aleatorio">Generar</string>
+
+</resources>
